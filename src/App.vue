@@ -54,7 +54,7 @@
   
   const lista = ref([]);
   
-  const mensaje = "Ingreso de numeros";
+  const mensaje = "Mi lista de numeros";
   
   const Incremento = () => {
     contador.value++;
@@ -117,7 +117,7 @@
   .contador {
     position: absolute;
     top: 70px;
-    left: 595px;
+    left: 607px;
   }
   
   .incremento {
